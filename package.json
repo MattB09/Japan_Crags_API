@@ -2,7 +2,7 @@
   "name": "japan_crags_api",
   "version": "1.0.0",
   "description": "API for rock climbing crags in Japan. Built while a student at code chrysalis",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "dev": "nodemon server/index.js",
     "start": "node server/index.js",
