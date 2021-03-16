@@ -18,7 +18,9 @@
     }
   },
   "dependencies": {
+    "@apollo/client": "^3.3.12",
     "apollo-server": "^2.21.1",
+    "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "graphql": "^15.5.0",
     "knex": "^0.95.2",
